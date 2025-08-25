@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **John Smith**, a .net software developer passionate about AI and backend systems.
+I'm **Peter Krajkovic**, a .net software developer passionate about AI and backend systems.
 
 - 🔭 Currently working on: Strava clone
 - 🌱 Learning: OpenSearch, and vector databases
