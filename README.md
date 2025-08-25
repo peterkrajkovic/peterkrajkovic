@@ -5,7 +5,7 @@ I'm **John Smith**, a .net software developer passionate about AI and backend sy
 - 🔭 Currently working on: Strava clone
 - 🌱 Learning: OpenSearch, and vector databases
 - 💬 Ask me about: C#, Python, or cloud deployments
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/peter-krajkovic))
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/peter-krajkovic-097531280)
 
 ---
 
