@@ -1,18 +1,18 @@
 # Hi there 👋
 
-I'm **John Smith**, a software developer passionate about AI and backend systems.
+I'm **John Smith**, a .net software developer passionate about AI and backend systems.
 
-- 🔭 I’m currently working on: a search engine project
-- 🌱 I’m learning: .NET, OpenSearch, and vector databases
+- 🔭 Currently working on: Strava clone
+- 🌱 Learning: OpenSearch, and vector databases
 - 💬 Ask me about: C#, Python, or cloud deployments
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/johnsmith)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/peter-krajkovic))
 
 ---
 
 ### 🛠️ My Tech Stack
-- Languages: C#, Python, JavaScript
-- Databases: SQL Server, MongoDB, OpenSearch
-- Cloud: Azure, AWS
+- Languages: C#, Python, Java
+- Databases: SQL Server, OpenSearch
+- Cloud: Azure
 
 ---
 
