@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**peterkrajkovic/peterkrajkovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **John Smith**, a software developer passionate about AI and backend systems.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: a search engine project
+- 🌱 I’m learning: .NET, OpenSearch, and vector databases
+- 💬 Ask me about: C#, Python, or cloud deployments
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/johnsmith)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack
+- Languages: C#, Python, JavaScript
+- Databases: SQL Server, MongoDB, OpenSearch
+- Cloud: Azure, AWS
+
+---
+
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnsmith&show_icons=true&theme=dark)
+
