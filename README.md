@@ -16,5 +16,5 @@ I'm **John Smith**, a .net software developer passionate about AI and backend sy
 
 ---
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnsmith&show_icons=true&theme=dark)
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterkrajkovic&show_icons=true&theme=dark)
 
