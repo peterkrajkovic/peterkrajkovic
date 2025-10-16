@@ -11,7 +11,7 @@
 
 ## 📫 Connect with me
 - **Email**: [petokrajkovic5@gmail.com](mailto:petokrajkovic5@gmail.com)
-- **LinkedIn**: [Peter Krajkovic](https://www.linkedin.com/in/peter-krajkovic-097531280/))
+- **LinkedIn**: [Peter Krajkovic](https://www.linkedin.com/in/peter-krajkovic-097531280/)
 
 ---
 
