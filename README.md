@@ -1,5 +1,10 @@
 # Hi 👋, I'm Peter Krajkovic  
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=520&lines=Turning+coffee+into+code;Building+scalable+backend+systems;Exploring+possibilities+with+LLMs+" alt="Typing SVG" />
+</a>
+
+
 💻 **.NET Software Developer** passionate about **LLMs, backend systems, and cloud technologies**.  
 🚀 I love building scalable, data-driven solutions and exploring modern architectures. 
 
@@ -15,7 +20,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterkrajkovic&layout=compact&theme=dark)  
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterkrajkovic&show_icons=true&theme=dark)
+<p><img width="450" height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=peterkrajkovic&layout=compact&theme=vue-dark" /> <img width="450" height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=peterkrajkovic&theme=vue-dark" /></p>
 
 
